@@ -1,0 +1,28 @@
+CASTLE — Subir la web (castleagency.online)
+===========================================
+
+1. Sube castle-landing.html a tu hosting y renómbralo index.html
+   (así abre solo al entrar a castleagency.online).
+
+2. Sube TAMBIÉN estos archivos a la RAÍZ del dominio (junto al index),
+   tal cual se llaman — los usa el favicon, la vista previa y Google:
+     castle-favicon-32.png
+     castle-favicon-16.png
+     castle-appicon-180.png
+     castle-og.png
+     sitemap.xml
+     robots.txt
+
+   (Están en esta misma carpeta, dentro de /assets)
+
+------------------------------------------------------------
+Para que Google la detecte rápido:
+- Entra a Google Search Console (search.google.com/search-console)
+- Agrega la propiedad castleagency.online y verifica el dominio
+- En "Sitemaps", envía:  https://castleagency.online/sitemap.xml
+- Pega https://castleagency.online/ en "Inspección de URL" y dale
+  "Solicitar indexación".
+
+La web ya incluye: título y descripción optimizados, canonical,
+Open Graph/Twitter (vista previa al compartir) y datos estructurados
+(ProfessionalService) con tu WhatsApp +1 809 635 6276.
